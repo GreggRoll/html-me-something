@@ -1,11 +1,14 @@
 body { 
+    background-image: url("https://hdqwalls.com/download/stars-in-the-sky-foggy-season-forest-mountains-4k-ql-3840x2160.jpg");
+    background-position-x: center;
+    margin: 25px;
     width: 50%;
-	font: 12pt/14pt georgia, sans-serif;  
-    margin: 200px; 
-    border: 1px solid black;
+    color: white;
+    font: 12pt/14pt georgia, sans-serif; 
+    border: 1px solid white;
 	margin: auto;
     padding: 10px;
-    background: white
+    text-align: center;
     }
 
 img {
@@ -14,16 +17,18 @@ img {
     margin-right: auto;
     width: 100%;
 }
+
 audio {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 60%;
 }
+
 footer	{
 	color:#000;
 	height:60px;
     position:absolute;
     width: 50%;
-	padding:40px 0 80px 200px;
+	padding:40px 0px 200px;
 	}
