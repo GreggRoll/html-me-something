@@ -1,15 +1,24 @@
 body { 
     background-image: url("https://hdqwalls.com/download/stars-in-the-sky-foggy-season-forest-mountains-4k-ql-3840x2160.jpg");
     background-position-x: center;
+    color: blueviolet;
     margin: 25px;
     width: 50%;
-    color: white;
-    font: 12pt/14pt georgia, sans-serif; 
     border: 1px solid white;
 	margin: auto;
     padding: 10px;
     text-align: center;
     }
+
+#main {
+    color: white;
+    font: 12pt/14pt georgia, sans-serif;
+}
+
+p.title {
+    color: white;
+    font: bold
+}
 
 img {
     display: block;
